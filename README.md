@@ -7,6 +7,6 @@ Once an exercise is finished it will be marked as checked and it will link to th
 
 ## dates
 
-- [ ] 05-02-2016
-- [ ] 12-02-2016
+- [x] [2016-02-05]
+- [ ] 2016-02-12
 - [ ] ...
