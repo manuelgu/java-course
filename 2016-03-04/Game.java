@@ -28,28 +28,28 @@ public class Game {
                 if (map[y - 1][x] != Util.WALL) {
                     y--;
                 } else {
-                    System.out.println("Whoops, you ran into a wall. That hurt, didn't it?");
+                    System.out.println(Util.RAN_INTO_WALL);
                 }
                 break;
             case "s":
                 if (map[y + 1][x] != Util.WALL) {
                     y++;
                 } else {
-                    System.out.println("Whoops, you ran into a wall. That hurt, didn't it?");
+                    System.out.println(Util.RAN_INTO_WALL);
                 }
                 break;
             case "a":
                 if (map[y][x - 1] != Util.WALL) {
                     x--;
                 } else {
-                    System.out.println("Whoops, you ran into a wall. That hurt, didn't it?");
+                    System.out.println(Util.RAN_INTO_WALL);
                 }
                 break;
             case "d":
                 if (map[y][x + 1] != Util.WALL) {
                     x++;
                 } else {
-                    System.out.println("Whoops, you ran into a wall. That hurt, didn't it?");
+                    System.out.println(Util.RAN_INTO_WALL);
                 }
                 break;
             case "q":
