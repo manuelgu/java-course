@@ -11,3 +11,4 @@ Once an exercise is finished it will be marked as checked and it will link to th
 - [x] [2016-02-12](https://github.com/manuelgu/java-course/tree/master/2016-02-12)
 - [x] [2016-02-19](https://github.com/manuelgu/java-course/tree/master/2016-02-19)
 - [x] [2016-03-04](https://github.com/manuelgu/java-course/tree/master/2016-03-04)
+- [x] [2016-03-11](https://github.com/manuelgu/java-course/tree/master/2016-03-11
