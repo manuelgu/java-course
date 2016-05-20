@@ -41,7 +41,7 @@ public class BubbleSort {
     }
 
     /**
-     * Dumps an array in reverse order to STDOUT
+     * Dumps an array to STDOUT
      *
      * @param a Array to dump
      */
